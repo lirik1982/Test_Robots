@@ -1,0 +1,1 @@
+curl "http://127.0.0.1:8000/api/v1/customers/add" --header "Content-Type: application/json" --data-raw "{\"email\":\"IlonMask17@tesla.com\"}"

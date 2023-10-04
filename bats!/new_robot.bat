@@ -1,0 +1,1 @@
+curl "http://127.0.0.1:8000/api/v1/robots/new" --header "Content-Type: application/json" --data "{\"model\":\"W1\",\"version\":\"W1\",\"created\":\"2023-10-03 23:59:59\"}"
